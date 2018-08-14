@@ -1,13 +1,11 @@
 ## About Me
 
-
-
 ---
 
 ## Experience
 
 **Intern (04/2018 - Present)**  
-Institute of Computer Science and Technology, Peking University
+[Struct](http://www.icst.pku.edu.cn/struct/), Institute of Computer Science and Technology, Peking University
 
 **Undergraduate (09/2016 - Present)**  
 School of Electronics Engineering and Computer Science, Peking University
