@@ -6,6 +6,8 @@
 
 ### Intern (04/2018 - Present)
 
+Institute of Computer Science and Technology, Peking University
+
 ### Undergraduate (09/2016 - Present)
 
 School of Electronics Engineering and Computer Science, Peking University
@@ -30,7 +32,7 @@ Syntax highlighted code block
 
 ## Research Interest
 
-
+>> Computer Vision
 
 ## Contact Me
 
