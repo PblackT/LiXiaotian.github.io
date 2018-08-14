@@ -16,7 +16,7 @@ School of Electronics Engineering and Computer Science, Peking University
 
 ## Research Interest
 
-&gt Computer Vision  
+&#62 Computer Vision  
 
 ---
 
