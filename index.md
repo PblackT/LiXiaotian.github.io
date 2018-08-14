@@ -34,6 +34,4 @@ Syntax highlighted code block
 
 ### Contact Me
 
-Email:
-
-    blackt_xtli@pku.edu.cn
+Email: blackt_xtli@pku.edu.cn
