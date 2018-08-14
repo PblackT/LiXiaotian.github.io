@@ -4,12 +4,10 @@
 
 ## Experience
 
-### Intern (04/2018 - Present)
-
+### Intern (04/2018 - Present)  
 Institute of Computer Science and Technology, Peking University
 
-### Undergraduate (09/2016 - Present)
-
+### Undergraduate (09/2016 - Present)  
 School of Electronics Engineering and Computer Science, Peking University
 
 ```markdown
@@ -32,7 +30,7 @@ Syntax highlighted code block
 
 ## Research Interest
 
->> Computer Vision
+Computer Vision
 
 ## Contact Me
 
