@@ -34,4 +34,4 @@ Computer Vision
 
 ## Contact Me
 
-**Email:**blackt_xtli@pku.edu.cn
+**Email:** blackt_xtli@pku.edu.cn
