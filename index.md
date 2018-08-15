@@ -1,6 +1,6 @@
 ## About Me
 
-<div align=center>![photo](https://github.com/PblackT/PblackT.github.io/blob/master/self.jpg)
+![photo](https://github.com/PblackT/PblackT.github.io/blob/master/self.jpg)
 
 ---
 
