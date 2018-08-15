@@ -1,5 +1,7 @@
 ## About Me
 
+<div align=center>![a photo of mine](https://github.com/PblackT/PblackT.github.io/blob/master/self.jpg)
+
 ---
 
 ## Experience
