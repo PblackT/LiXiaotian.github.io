@@ -1,4 +1,4 @@
-  ![photo](./self.jpg)
+  ![photo](./photos/self.jpg)
 
 ---
 
