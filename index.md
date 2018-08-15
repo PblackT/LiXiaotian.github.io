@@ -1,7 +1,4 @@
-## About Me
-
-![photo](https://github.com/PblackT/PblackT.github.io/blob/master/self.jpg)
-
+![photo](https://github.com/PblackT/PblackT.github.io/blob/master/self.jpg)  
 <div align=center>Xiaotian Li
 
 ---
